@@ -18,7 +18,7 @@ class MainActivity : AppCompatActivity() {
         //edited master
         //moa edit lagi master
 
-        //trial2_dev
+        //trial2_dev berubah lagi ehehe
         var baru:Boolean = true
         var kehapus:Boolean = false
 
