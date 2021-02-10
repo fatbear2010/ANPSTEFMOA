@@ -8,7 +8,8 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        //master
+
+        //dari branch 2 nambahin code
 
     }
 }
