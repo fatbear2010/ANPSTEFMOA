@@ -12,5 +12,8 @@ class MainActivity : AppCompatActivity() {
         var moaTried:Boolean = true
         var error:Boolean = false
 
+
+        //dari branch 2
+
     }
 }
