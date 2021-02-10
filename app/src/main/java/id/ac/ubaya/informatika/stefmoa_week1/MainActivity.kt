@@ -10,5 +10,7 @@ class MainActivity : AppCompatActivity() {
 
         //coba nambahin
         var moaTried:Boolean = true
+        var error:Boolean = false
+
     }
 }
