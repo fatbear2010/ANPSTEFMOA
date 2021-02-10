@@ -8,11 +8,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        //coba edit di MainActivity master
-
-
-        //Coba edit Lagi Dari Stef
+        //coba nambahin
+        var moaTried:Boolean = true
     }
-
-    //Edited
 }
