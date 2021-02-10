@@ -8,11 +8,9 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        //coba nambahin
-        var moaTried:Boolean = true
-        var error:Boolean = false
-
-        //ganti di trialdev
+        //trial_dev v2
+       var moaTried:Boolean = true
+       var error:Boolean = true
 
     }
 }
