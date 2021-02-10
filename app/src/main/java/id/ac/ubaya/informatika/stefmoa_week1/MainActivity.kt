@@ -9,5 +9,8 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         //coba edit di MainActivity master
+
+
+        //Coba edit Lagi Dari Stef
     }
 }
