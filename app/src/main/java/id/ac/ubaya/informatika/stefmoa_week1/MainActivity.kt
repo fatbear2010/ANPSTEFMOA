@@ -8,8 +8,14 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
+<<<<<<< HEAD
 
         //dari branch 2 nambahin code
+=======
+        //trial_dev v2
+       var moaTried:Boolean = true
+       var error:Boolean = true
+>>>>>>> trial_dev
 
     }
 }
