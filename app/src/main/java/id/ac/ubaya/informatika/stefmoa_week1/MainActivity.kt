@@ -12,7 +12,5 @@ class MainActivity : AppCompatActivity() {
         var moaTried:Boolean = true
         var error:Boolean = false
 
-        //ganti di trialdev
-
     }
 }
