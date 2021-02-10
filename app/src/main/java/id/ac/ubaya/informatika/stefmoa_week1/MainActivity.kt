@@ -22,5 +22,9 @@ class MainActivity : AppCompatActivity() {
         var baru:Boolean = true
         var kehapus:Boolean = false
 
+
+        //moa_dev
+        //hello
+
     }
 }
